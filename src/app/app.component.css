@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.parent{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+    color: aliceblue;
+}
+.left{
+    height: 100vh;
+    width: 30vw;
+    background-color: black;
+    padding-left: 20px;
+}
